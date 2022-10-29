@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "question": "What is cynophobia?",
+      "answer": "the fear of dogs"
+    },
+    {
+      "question": "How long is an olympic swimming pool (in meters)?",
+      "answer": "50"
+    },
+    {
+      "question": "How many languages are written from right to left?",
+      "answer": "12"
+    },
+    {
+      "question": "What is the name of the biggest technology company in South Korea?",
+      "answer": "samsung"
+    },
+    {
+      "question": "Who was the first woman to win a Nobel Prize (in 1903)?",
+      "answer": "marie curie"
+    },
+    {
+      "question": "The first dictionary was written by?",
+      "answer": "robert cawdrey"
+    },
+    {
+      "question": "What is the name of the largest ocean on Earth?",
+      "answer": "pacific ocean"
+    },
+    {
+      "question": "What is a group of ravens known as?",
+      "answer": "an unkindness"
+    },
+    {
+      "question": "How many months do elephant pregnancies last?",
+      "answer": "22"
+    },
+    {
+      "question": "The name of which African animal means \"river horse\"?",
+      "answer": "hippopotamus"
+    },
+    {
+      "question": "In what type of matter are atoms most tightly packed?",
+      "answer": "solid"
+    },
+    {
+      "question": "What is the opposite of matter?",
+      "answer": "antimatter"
+    },
+    {
+      "question": "Which planet is nearest to the sun?",
+      "answer": "mercury"
+    },
+    {
+      "question": "How many teeth does an adult human have?",
+      "answer": 32
+    },
+    { 
+      "question": "Which tissues connect the muscles to the bones?",
+      "answer": "tendons"
+    },
+    {
+      "question": "Who invented the word \"vomit\"?",
+      "answer": "shakespeare"
+    },
+    {
+      "question": "How many colors are in the rainbow?",
+      "answer": 7
+    },
+    {
+      "question": "True or false? Electrons are smaller than atoms.",
+      "answer": "true"
+    },
+    {
+      "question": "Which is the most abundant element in the universe?",
+      "answer": "hydrogen"
+    }
+  ]
+}
